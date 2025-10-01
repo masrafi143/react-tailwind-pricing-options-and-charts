@@ -17,7 +17,7 @@ const Navbar = () => {
                 <li><a>Awsome React components</a></li>
             </ul>
             </div>
-            <a className="btn btn-ghost text-xl">react-tailwind-pricing-optins</a>
+            <a className="text-xl font-bold">Price & Charts</a>
         </div>
         <div className="navbar-center hidden lg:flex">
             <ul className="menu menu-horizontal px-1">
